@@ -17,6 +17,8 @@ Simple, dependency-ready instructions are speculatively executed ahead of the ma
 - **tb_fast_core_system.v**  
   Self-checking testbench with waveform and console output.
 
+## Evaluation Sheet
+![Paper Page 1](assests/Screenshot%202026-01-28%20072940.png)
 ## Scope
 This is **not a full CPU**. Loads/stores, floating point, and memory hierarchy are intentionally excluded.  
 The goal is to demonstrate the **architectural concept**, not a production processor.
